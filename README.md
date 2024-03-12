@@ -28,7 +28,7 @@
 ## Screenshots
 ### ![Dashboard 1](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot1.png)
 - The dashboard provides an overview of the system, displaying key metrics and summaries of student enrollment, course information, and more.
-### ![Dashboard 1](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot2.png)
+### ![Line Plot](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot2.png)
 ### ![Dashboard 2](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot3.png)
 ### ![Dashboard 3](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot4.png)
 ### ![Dashboard 4](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot5.png)
