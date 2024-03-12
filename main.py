@@ -78,3 +78,5 @@ if selected_file:
 
         # Show the results
         st.pyplot(fig)
+
+      # Code Runing command of code on terminal ->> streamlit run main.py
