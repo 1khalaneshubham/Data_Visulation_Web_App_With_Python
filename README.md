@@ -26,13 +26,19 @@
 - 3. Run the Flask application: `main.py`
 
 ## Screenshots
+### Data visualizer
 ### ![Dashboard 1](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot1.png)
-- The dashboard provides an overview of the system, displaying key metrics and summaries of student enrollment, course information, and more.
-### ![Line Plot](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot2.png)
-### ![Dashboard 2](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot3.png)
-### ![Dashboard 3](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot4.png)
-### ![Dashboard 4](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot5.png)
-### ![Dashboard 5](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot6.png)
-### ![Dashboard 6](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot7.png)
+### Line Plot of BloodPressure Vs Glucose
+### ![Dashboard 2](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot2.png)
+### Distributen Plot ofDensity Vs Glucose
+### ![Dashboard 3](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot3.png)
+### Scatter Plot of BloodPresure Vs Glucose
+### ![Dashboard 4](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot4.png)
+### Count Plot of Count Vs Glucose
+### ![Dashboard 5](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot5.png)
+### Bar Chart of Bloodpressure Vs Glucose
+### ![Dashboard 6](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot6.png)
+### Line Plot of Oldpeak Vs sex
+### ![Dashboard 7](https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python/blob/main/Screenshots/Screenshot7.png)
 
 #### Name:Shubham Dinesh Khalane
