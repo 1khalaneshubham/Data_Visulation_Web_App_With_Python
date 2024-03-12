@@ -1,4 +1,4 @@
-# Data Visualization Web App With Python
+# Data Visualization Web App With Python 
 - This project is a web application developed using Python for data visualization purposes. It offers users an interactive platform to upload datasets and generate a variety of visualizations to explore and analyze data effectively.
 
 ## Features
@@ -21,9 +21,13 @@
 
 ### To run the project locally, follow these steps:
 
-- 1. Clone the repository: `git clone < -------- >`
+- 1. Clone the repository: `git clone < https://github.com/1khalaneshubham/Data_Visulation_Web_App_With_Python >`
 - 2. Install dependencies: `pip install -r requirements.txt`
 - 3. Run the Flask application: `main.py`
 
 ## Screenshots
-
+![GitHub Logo]()
+![GitHub Logo]()
+![GitHub Logo]()
+![GitHub Logo]()
+![GitHub Logo]()
